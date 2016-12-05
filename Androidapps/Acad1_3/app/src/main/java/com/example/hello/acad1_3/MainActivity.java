@@ -1,4 +1,4 @@
-package com.example.hello.acad1;
+package com.example.hello.acad1_3;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -8,6 +8,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.vibgyor);
+        setContentView(R.layout.activity_main);
     }
 }
